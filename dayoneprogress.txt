@@ -1,0 +1,12 @@
+                                    
+                         Day 1 Progress
+
+# Javascript
+  Basics of Javascript
+  Keywords
+  Variables
+  Operators
+
+# Tomarrow Plan
+  Conditionals
+  Loops
