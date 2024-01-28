@@ -1,0 +1,11 @@
+                                    
+                         Day 2 Progress
+
+# Javascript
+  Conditionals
+  Loops
+
+# Tomarrow Plan
+  Functions
+  Debugging
+  Solve some pattern problems
