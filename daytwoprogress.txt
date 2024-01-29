@@ -6,6 +6,6 @@
   Loops
 
 # Tomarrow Plan
-  Functions,
+  Functions
   Debugging
   Solve some pattern problems
